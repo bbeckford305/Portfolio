@@ -1,0 +1,16 @@
+{
+  "name": "Bridgette-Beckford",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bbeckford305.github.io/portfolio"
+  "dependencies": {
+    "gh-pages": "^3.2.1"
+  }
+}
