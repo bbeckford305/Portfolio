@@ -449,7 +449,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0;
-  font-size: 48px;
+  font-size: 60px;
   font-weight: 700;
   line-height: 56px;
   color: #f2e9e4;
@@ -458,7 +458,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #e09f3e;
   margin: 10px 0 0 0;
-  font-size: 22px;
+  font-size: 30px;
 }
 
 #hero .btn-about {
