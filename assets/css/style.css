@@ -1174,8 +1174,8 @@ section {
 }
 
 .contact .info p {
-  padding: 0 0 0 60px;
-  margin-bottom: 0;
+  /* padding: 0 0 0 60px; */
+  margin-bottom: 40px;
   color: #9a8c98;
   font-weight: 400;
   line-height: 1.5;
